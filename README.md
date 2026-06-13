@@ -41,6 +41,30 @@
 
 ---
 
+## 🏢 Companies
+
+<p align="left">
+  <a href="https://agridunya.com/" title="AgriDunya Technologies · Pakistan">
+    <img src="https://www.google.com/s2/favicons?domain=agridunya.com&sz=128" alt="AgriDunya Technologies" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.datamachineelite.com/" title="DME · Data Machine Elite · Portugal">
+    <img src="https://www.google.com/s2/favicons?domain=datamachineelite.com&sz=128" alt="DME" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.turing.com/" title="Turing.com · USA">
+    <img src="https://www.google.com/s2/favicons?domain=turing.com&sz=128" alt="Turing.com" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.micro1.ai/" title="Micro1 · USA">
+    <img src="https://www.google.com/s2/favicons?domain=micro1.ai&sz=128" alt="Micro1" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+</p>
+
+| Company | Role | Flag |
+| --- | --- | :---: |
+| AgriDunya Technologies | Machine Learning Engineer | <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" width="28" title="Pakistan" /> |
+| DME (Data Machine Elite) | AI/ML Engineer | <img src="https://flagcdn.com/w40/pt.png" alt="Portugal" width="28" title="Portugal" /> |
+| Turing.com | LLM (Python) & Agentic AI Developer | <img src="https://flagcdn.com/w40/us.png" alt="USA" width="28" title="USA" /> |
+| Micro1 | Coding Expert (Python) | <img src="https://flagcdn.com/w40/us.png" alt="USA" width="28" title="USA" /> |
+
 ## 🎓 Universities
 
 <p align="left">
@@ -65,37 +89,13 @@
 </p>
 
 | University | Type | Flag |
-| --- | --- | --- |
-| Sukkur IBA University | University | 🇵🇰 Pakistan |
-| Tianjin University | University | 🇨🇳 China |
-| Eindhoven University of Technology | University | 🇳🇱 Netherlands |
-| Ca' Foscari University | University | 🇮🇹 Italy |
-| Izmir Institute of Technology | University | 🇹🇷 Turkey |
-| University of Aveiro | University | 🇵🇹 Portugal |
-
-## 🏢 Companies
-
-<p align="left">
-  <a href="https://agridunya.com/" title="AgriDunya Technologies · Pakistan">
-    <img src="https://www.google.com/s2/favicons?domain=agridunya.com&sz=128" alt="AgriDunya Technologies" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-  <a href="https://www.datamachineelite.com/" title="DME · Data Machine Elite · Portugal">
-    <img src="https://www.google.com/s2/favicons?domain=datamachineelite.com&sz=128" alt="DME" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-  <a href="https://www.turing.com/" title="Turing.com · USA">
-    <img src="https://www.google.com/s2/favicons?domain=turing.com&sz=128" alt="Turing.com" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-  <a href="https://www.micro1.ai/" title="Micro1 · USA">
-    <img src="https://www.google.com/s2/favicons?domain=micro1.ai&sz=128" alt="Micro1" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-</p>
-
-| Company | Type | Flag |
-| --- | --- | --- |
-| AgriDunya Technologies | Agritech | 🇵🇰 Pakistan |
-| DME (Data Machine Elite) | AI/ML | 🇵🇹 Portugal |
-| Turing.com | LLM & Agentic AI | 🇺🇸 USA |
-| Micro1 | AI Coding | 🇺🇸 USA |
+| --- | --- | :---: |
+| Sukkur IBA University | BS Computer Science | <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" width="28" title="Pakistan" /> |
+| Tianjin University | MS Software Engineering | <img src="https://flagcdn.com/w40/cn.png" alt="China" width="28" title="China" /> |
+| Eindhoven University of Technology | University | <img src="https://flagcdn.com/w40/nl.png" alt="Netherlands" width="28" title="Netherlands" /> |
+| Ca' Foscari University | University | <img src="https://flagcdn.com/w40/it.png" alt="Italy" width="28" title="Italy" /> |
+| Izmir Institute of Technology | University | <img src="https://flagcdn.com/w40/tr.png" alt="Turkey" width="28" title="Turkey" /> |
+| University of Aveiro | University | <img src="https://flagcdn.com/w40/pt.png" alt="Portugal" width="28" title="Portugal" /> |
 
 ---
 
