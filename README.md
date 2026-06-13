@@ -47,6 +47,9 @@
   <a href="https://www.iba-suk.edu.pk/" title="Sukkur IBA University · Pakistan">
     <img src="https://www.google.com/s2/favicons?domain=iba-suk.edu.pk&sz=128" alt="Sukkur IBA University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
+  <a href="https://agridunya.com/" title="AgriDunya Technologies · Pakistan">
+    <img src="https://www.google.com/s2/favicons?domain=agridunya.com&sz=128" alt="AgriDunya Technologies" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
   <a href="https://www.tju.edu.cn/" title="Tianjin University · China">
     <img src="https://www.google.com/s2/favicons?domain=tju.edu.cn&sz=128" alt="Tianjin University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
@@ -76,6 +79,7 @@
 | Organization | Country | Type |
 | --- | --- | --- |
 | Sukkur IBA University | 🇵🇰 Pakistan | Education |
+| AgriDunya Technologies | 🇵🇰 Pakistan | Agritech |
 | Tianjin University | 🇨🇳 China | Education |
 | Eindhoven University of Technology | 🇳🇱 Netherlands | Education |
 | DME (Data Machine Elite) | 🇵🇹 Portugal | Industry |
