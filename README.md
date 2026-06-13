@@ -32,12 +32,36 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Currently working at** [DME (Data Machine Elite)](https://github.com/noorcs39) as **AI/ML Engineer** and **Micro.1** as **Coding Expert (Python)**
-- 🧠 **Specializing in** LLMs, RAG, Agentic AI, SFT, RLHF, anomaly detection, and production ML systems
+- 🧠 **Specializing in** production ML systems, LLM training pipelines, and agentic AI applications
 - 🎓 **MS Software Engineering** — Tianjin University · **BS Computer Science** — Sukkur IBA University
-- 📄 **Research interests:** diffusion models, GANs, CNNs, indoor positioning, sign language recognition, telecom anomaly detection
 - 🌱 **Building open-source projects** in Hugging Face, LangChain, CrewAI, PyTorch, and MLOps pipelines
 - 📫 **Reach me at** [noor.cs2@yahoo.com](mailto:noor.cs2@yahoo.com)
 - ⚡ **Fun fact:** I started as a programming instructor and now build autonomous AI agents
+
+---
+
+## 🔬 Research Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Diffusion%20Models-Deep%20Learning-8B5CF6?style=for-the-badge" alt="Diffusion Models" />
+  <img src="https://img.shields.io/badge/GANs-Generative%20AI-EC4899?style=for-the-badge" alt="GANs" />
+  <img src="https://img.shields.io/badge/CNNs-Computer%20Vision-6366F1?style=for-the-badge" alt="CNNs" />
+  <img src="https://img.shields.io/badge/Indoor%20Positioning-Localization-14B8A6?style=for-the-badge" alt="Indoor Positioning" />
+  <img src="https://img.shields.io/badge/Sign%20Language%20Recognition-ASL-0EA5E9?style=for-the-badge" alt="Sign Language Recognition" />
+  <img src="https://img.shields.io/badge/Telecom%20Anomaly%20Detection-Networks-F59E0B?style=for-the-badge" alt="Telecom Anomaly Detection" />
+</p>
+
+## 🎯 Professional Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Review-Expertise-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Code Review" />
+  <img src="https://img.shields.io/badge/SFT-Supervised%20Fine--Tuning-EF4444?style=for-the-badge" alt="SFT" />
+  <img src="https://img.shields.io/badge/RLHF-Alignment-DC2626?style=for-the-badge" alt="RLHF" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-Benchmarks-0284C7?style=for-the-badge" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20%26%20API-059669?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/GenAI%20(LLM)-Large%20Language%20Models-7C3AED?style=for-the-badge" alt="GenAI LLM" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-F97316?style=for-the-badge" alt="Agentic AI" />
+</p>
 
 ---
 
