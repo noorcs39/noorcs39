@@ -41,6 +41,52 @@
 
 ---
 
+## 🏛️ Organizations & Affiliations
+
+<p align="left">
+  <a href="https://www.iba-suk.edu.pk/" title="Sukkur IBA University · Pakistan">
+    <img src="https://www.google.com/s2/favicons?domain=iba-suk.edu.pk&sz=128" alt="Sukkur IBA University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.tju.edu.cn/" title="Tianjin University · China">
+    <img src="https://www.google.com/s2/favicons?domain=tju.edu.cn&sz=128" alt="Tianjin University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.tue.nl/" title="Eindhoven University of Technology · Netherlands">
+    <img src="https://www.google.com/s2/favicons?domain=tue.nl&sz=128" alt="Eindhoven University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.datamachineelite.com/" title="DME · Data Machine Elite · Portugal">
+    <img src="https://www.google.com/s2/favicons?domain=datamachineelite.com&sz=128" alt="DME" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.unive.it/" title="Ca' Foscari University · Italy">
+    <img src="https://www.google.com/s2/favicons?domain=unive.it&sz=128" alt="Ca Foscari University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.iyte.edu.tr/" title="Izmir Institute of Technology · Turkey">
+    <img src="https://www.google.com/s2/favicons?domain=iyte.edu.tr&sz=128" alt="Izmir Institute of Technology" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.ua.pt/" title="University of Aveiro · Portugal">
+    <img src="https://www.google.com/s2/favicons?domain=ua.pt&sz=128" alt="University of Aveiro" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.turing.com/" title="Turing.com · USA">
+    <img src="https://www.google.com/s2/favicons?domain=turing.com&sz=128" alt="Turing.com" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.micro1.ai/" title="Micro1 · USA">
+    <img src="https://www.google.com/s2/favicons?domain=micro1.ai&sz=128" alt="Micro1" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+</p>
+
+| Organization | Country | Type |
+| --- | --- | --- |
+| Sukkur IBA University | 🇵🇰 Pakistan | Education |
+| Tianjin University | 🇨🇳 China | Education |
+| Eindhoven University of Technology | 🇳🇱 Netherlands | Education |
+| DME (Data Machine Elite) | 🇵🇹 Portugal | Industry |
+| Ca' Foscari University | 🇮🇹 Italy | Education |
+| Izmir Institute of Technology | 🇹🇷 Turkey | Education |
+| University of Aveiro | 🇵🇹 Portugal | Education |
+| Turing.com | 🇺🇸 USA | Industry |
+| Micro1 | 🇺🇸 USA | Industry |
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
