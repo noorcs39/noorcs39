@@ -41,23 +41,17 @@
 
 ---
 
-## 🏛️ Organizations & Affiliations
+## 🎓 Universities
 
 <p align="left">
   <a href="https://www.iba-suk.edu.pk/" title="Sukkur IBA University · Pakistan">
     <img src="https://www.google.com/s2/favicons?domain=iba-suk.edu.pk&sz=128" alt="Sukkur IBA University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-  <a href="https://agridunya.com/" title="AgriDunya Technologies · Pakistan">
-    <img src="https://www.google.com/s2/favicons?domain=agridunya.com&sz=128" alt="AgriDunya Technologies" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
   <a href="https://www.tju.edu.cn/" title="Tianjin University · China">
     <img src="https://www.google.com/s2/favicons?domain=tju.edu.cn&sz=128" alt="Tianjin University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
   <a href="https://www.tue.nl/" title="Eindhoven University of Technology · Netherlands">
     <img src="https://www.google.com/s2/favicons?domain=tue.nl&sz=128" alt="Eindhoven University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
-  </a>
-  <a href="https://www.datamachineelite.com/" title="DME · Data Machine Elite · Portugal">
-    <img src="https://www.google.com/s2/favicons?domain=datamachineelite.com&sz=128" alt="DME" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
   <a href="https://www.unive.it/" title="Ca' Foscari University · Italy">
     <img src="https://www.google.com/s2/favicons?domain=unive.it&sz=128" alt="Ca Foscari University" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
@@ -68,6 +62,26 @@
   <a href="https://www.ua.pt/" title="University of Aveiro · Portugal">
     <img src="https://www.google.com/s2/favicons?domain=ua.pt&sz=128" alt="University of Aveiro" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
+</p>
+
+| University | Type | Flag |
+| --- | --- | --- |
+| Sukkur IBA University | University | 🇵🇰 Pakistan |
+| Tianjin University | University | 🇨🇳 China |
+| Eindhoven University of Technology | University | 🇳🇱 Netherlands |
+| Ca' Foscari University | University | 🇮🇹 Italy |
+| Izmir Institute of Technology | University | 🇹🇷 Turkey |
+| University of Aveiro | University | 🇵🇹 Portugal |
+
+## 🏢 Companies
+
+<p align="left">
+  <a href="https://agridunya.com/" title="AgriDunya Technologies · Pakistan">
+    <img src="https://www.google.com/s2/favicons?domain=agridunya.com&sz=128" alt="AgriDunya Technologies" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
+  <a href="https://www.datamachineelite.com/" title="DME · Data Machine Elite · Portugal">
+    <img src="https://www.google.com/s2/favicons?domain=datamachineelite.com&sz=128" alt="DME" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
+  </a>
   <a href="https://www.turing.com/" title="Turing.com · USA">
     <img src="https://www.google.com/s2/favicons?domain=turing.com&sz=128" alt="Turing.com" width="48" height="48" style="border-radius: 10px; margin: 4px;" />
   </a>
@@ -76,18 +90,12 @@
   </a>
 </p>
 
-| Organization | Country | Type |
+| Company | Type | Flag |
 | --- | --- | --- |
-| Sukkur IBA University | 🇵🇰 Pakistan | Education |
-| AgriDunya Technologies | 🇵🇰 Pakistan | Agritech |
-| Tianjin University | 🇨🇳 China | Education |
-| Eindhoven University of Technology | 🇳🇱 Netherlands | Education |
-| DME (Data Machine Elite) | 🇵🇹 Portugal | Industry |
-| Ca' Foscari University | 🇮🇹 Italy | Education |
-| Izmir Institute of Technology | 🇹🇷 Turkey | Education |
-| University of Aveiro | 🇵🇹 Portugal | Education |
-| Turing.com | 🇺🇸 USA | Industry |
-| Micro1 | 🇺🇸 USA | Industry |
+| AgriDunya Technologies | Agritech | 🇵🇰 Pakistan |
+| DME (Data Machine Elite) | AI/ML | 🇵🇹 Portugal |
+| Turing.com | LLM & Agentic AI | 🇺🇸 USA |
+| Micro1 | AI Coding | 🇺🇸 USA |
 
 ---
 
