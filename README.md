@@ -61,8 +61,10 @@
 | Company | Role | Flag |
 | --- | --- | :---: |
 | AgriDunya Technologies | Machine Learning Engineer | <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" width="28" title="Pakistan" /> |
+| AgriDunya Technologies | Python Developer | <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" width="28" title="Pakistan" /> |
 | DME (Data Machine Elite) | AI/ML Engineer | <img src="https://flagcdn.com/w40/pt.png" alt="Portugal" width="28" title="Portugal" /> |
 | Turing.com | LLM (Python) & Agentic AI Developer | <img src="https://flagcdn.com/w40/us.png" alt="USA" width="28" title="USA" /> |
+| Turing.com | Secondary PoD Lead | <img src="https://flagcdn.com/w40/us.png" alt="USA" width="28" title="USA" /> |
 | Micro1 | Coding Expert (Python) | <img src="https://flagcdn.com/w40/us.png" alt="USA" width="28" title="USA" /> |
 
 ## 🎓 Universities
